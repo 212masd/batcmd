@@ -8,3 +8,5 @@ git status
 git commit -m "Initial commit"
 git status
 git push -u origin master
+
+pause
