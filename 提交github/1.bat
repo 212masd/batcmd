@@ -1,7 +1,10 @@
-git add .
-pause
+git branch
 git status
-pause
+
+git add .
+git status
+git status
+
 git commit -m "Initial commit"
-pause
+git status
 git push -u origin master
